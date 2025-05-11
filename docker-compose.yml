@@ -1,0 +1,15 @@
+services:
+  hugo-blog:
+    build: .
+    container_name: hugo-blog
+    restart: unless-stopped
+    networks:
+      - web
+    # No ports exposed if using Tailscale or Tunnel
+    # Optionally expose locally:
+    ports:
+      - "9090:80"
+
+networks:
+  web:
+    driver: bridge

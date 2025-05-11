@@ -1,0 +1,12 @@
+baseURL = 'https://toddco.xyz/'
+languageCode = 'en-us'
+title = 'toddco'
+theme = 'PaperMod'
+
+[params]
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/adityatelange/hugo-PaperMod"
