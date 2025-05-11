@@ -1,11 +1,11 @@
 +++
-title = 'Why Im Starting This Blog'
+title = 'My Journey into Developer Blogging'
 date = 2025-05-06T21:11:52-04:00
 draft = false
 tags = ["tech journey", "home lab", "self-hosting", "technical writing"]
 +++
 
-# My Journey into Developer Blogging
+
 
 I'm starting this blog because it could be a helpful way for me to share what I'm learning. Lately, I’ve felt a growing urge to document and keep track of my home lab adventures. Not because I have everything figured out, but because writing helps me think.
 
